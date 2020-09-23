@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\bin\Debug\netcoreapp3.1\OPP_LR_1(2).exe
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\bin\Debug\netcoreapp3.1\OPP_LR_1(2).deps.json
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\bin\Debug\netcoreapp3.1\OPP_LR_1(2).runtimeconfig.json
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\bin\Debug\netcoreapp3.1\OPP_LR_1(2).runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\bin\Debug\netcoreapp3.1\OPP_LR_1(2).dll
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\bin\Debug\netcoreapp3.1\OPP_LR_1(2).pdb
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\obj\Debug\netcoreapp3.1\OPP_LR_1(2).csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\obj\Debug\netcoreapp3.1\OPP_LR_1(2).AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\obj\Debug\netcoreapp3.1\OPP_LR_1(2).AssemblyInfo.cs
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\obj\Debug\netcoreapp3.1\OPP_LR_1(2).csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\obj\Debug\netcoreapp3.1\OPP_LR_1(2).dll
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\obj\Debug\netcoreapp3.1\OPP_LR_1(2).pdb
+C:\Users\Роман\source\repos\OPP_LR_1(2)\OPP_LR_1(2)\obj\Debug\netcoreapp3.1\OPP_LR_1(2).genruntimeconfig.cache
